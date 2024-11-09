@@ -1,0 +1,4 @@
+names:
+  0: panda
+train: /home/jhchoman/YOLO_1101/detection/dataset/train
+val: /home/jhchoman/YOLO_1101/detection/dataset/val
